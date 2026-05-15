@@ -7,7 +7,7 @@ I am a Computer Science student at Sukkur IBA University and an aspiring Softwar
 ### 🚀 What I'm Up To
 - 🔭 **Currently working on:** Enhancing my vanilla JavaScript projects and exploring deep learning architectures.
 - 🌱 **Currently learning:** Advanced Data Science concepts, neural networks, and framework-less UI visualizations.
-- 💬 **Ask me about:** Java, Python, Web Development, and building interactive math visuals!
+- 💬 **Ask me about:** Java, Python, Web Development, and building interactive web visualizations & learning every day.
 
 ---
 
