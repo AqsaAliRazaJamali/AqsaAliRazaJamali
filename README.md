@@ -34,6 +34,12 @@ I am a Computer Science student at Sukkur IBA University and an aspiring Softwar
 
 ---
 
+### 🔥 GitHub Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aqsaalirazajamali&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
 ### 🤝 Connect with Me
 - 📧 **Email:** [aqsajamali.bscsddf23@iba-suk.edu.pk]
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/aqsa-ali-raza-4385a7351]
