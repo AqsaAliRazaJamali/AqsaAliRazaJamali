@@ -41,7 +41,7 @@ I am a Computer Science student at Sukkur IBA University and an aspiring Softwar
 ---
 
 ### 🤝 Connect with Me
-- 📧 **Email:** [aqsajamali.bscsddf23@iba-suk.edu.pk]
+- 📧 **Email:** [aqsaaliraza16@gmail.com]
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/aqsa-ali-raza-4385a7351]
 - 🌐 **Portfolio:** [https://aqsaalirazajamali.github.io/portfolio/]
 
