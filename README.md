@@ -36,7 +36,7 @@ I am a Computer Science student at Sukkur IBA University and an aspiring Softwar
 
 ### 🔥 GitHub Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aqsaalirazajamali&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aqsaalirazajamali&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
