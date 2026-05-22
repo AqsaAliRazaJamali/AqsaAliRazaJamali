@@ -43,8 +43,9 @@ I am a Computer Science student at Sukkur IBA University and an aspiring Softwar
 * 🚗 **Car Price Prediction Model** *(Python, Machine Learning)*  
   Built a machine learning model for predicting vehicle prices using data preprocessing and feature engineering techniques.
 
-* 🛒 **Shopping & Management Systems** *(Java, OOP, Data Structures)* Created several desktop GUI applications, including a retail shopping cart system and a full CRUD-based Employee Management System focusing on clean Object-Oriented Design.
-
+* 🛒 **Shopping & Management Systems** *(Java, OOP, Data Structures)*  
+  Created several desktop GUI applications, including a retail shopping cart system and a full CRUD-based Employee Management System focusing on clean Object-Oriented Design.
+  
 ---
 
 ### 🔥 GitHub Streak Stats
@@ -73,7 +74,7 @@ I am a Computer Science student at Sukkur IBA University and an aspiring Softwar
 
 ### 🤝 Connect with Me
 - 📧 **Email:** [aqsaaliraza16@gmail.com]
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/aqsa-ali-raza-4385a7351]
-- 🌐 **Portfolio:** [https://aqsaalirazajamali.github.io/portfolio/]
+- 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/aqsa-ali-raza-4385a7351)
+- 🌐 **Portfolio:** [My Portfolio](https://aqsaalirazajamali.github.io/portfolio/)
 
 *“Building interactive solutions through code, creativity, and continuous learning.”*
