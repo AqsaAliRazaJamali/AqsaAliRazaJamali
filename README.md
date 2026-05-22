@@ -1,12 +1,12 @@
 ### Hi there, I'm Aqsa Jamali! 👋
 
-I am a Computer Science student at Sukkur IBA University and an aspiring Software Developer & Data Science enthusiast. I love building functional, interactive applications from scratch and exploring machine learning algorithms.
+I am a Computer Science student at Sukkur IBA University and an aspiring Software Developer passionate about building interactive educational platforms, AI-powered applications, and data-driven solutions. I enjoy creating responsive web applications, algorithm visualizers, and machine learning projects that combine problem-solving with intuitive user experiences.
 
 ---
 
 ### 🚀 What I'm Up To
-- 🔭 **Currently working on:** Enhancing my vanilla JavaScript projects and exploring deep learning architectures.
-- 🌱 **Currently learning:** Advanced Data Science concepts, neural networks, and framework-less UI visualizations.
+- 🔭 **Currently working on:** Interactive algorithm visualizers, AI-powered web applications, and responsive frontend systems.
+- 🌱 **Currently learning:** MERN stack development, machine learning concepts, and advanced frontend architecture.
 - 💬 **Ask me about:** Java, Python, Web Development, and building interactive web visualizations & learning every day.
 
 ---
@@ -16,9 +16,9 @@ I am a Computer Science student at Sukkur IBA University and an aspiring Softwar
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, Java, JavaScript (ES6+), HTML5/CSS3 |
-| **Frameworks & Libraries** | React, React Components |
-| **Data Science & ML** | Data Preprocessing, Feature Engineering, Basic Machine Learning |
-| **Tools & Environments** | Git, GitHub, VS Code |
+| **Frameworks & Libraries** | React, Redux Toolkit, Tailwind CSS |
+| **Data Science & ML** | Data Analysis, Feature Engineering, Machine Learning, Data Visualization |
+| **Tools & Environments** | Git, GitHub, VS Code, MongoDB |
 
 ---
 
