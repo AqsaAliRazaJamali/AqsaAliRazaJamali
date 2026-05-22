@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7F3FBF&size=28&center=true&vCenter=true&width=700&lines=Software+Developer;MERN+Stack+Learner;AI+%26+Data+Science+Enthusiast;Interactive+Visualization+Builder" />
-</p>
-
 ### Hi there, I'm Aqsa Jamali! 👋
 
 I am a Computer Science student at Sukkur IBA University and an aspiring Software Developer passionate about building interactive educational platforms, AI-powered applications, and data-driven solutions. I enjoy creating responsive web applications, algorithm visualizers, and machine learning projects that combine problem-solving with intuitive user experiences.
@@ -60,9 +56,13 @@ I am a Computer Science student at Sukkur IBA University and an aspiring Softwar
 
 ### 📊 GitHub Stats
 
-![Aqsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqsaalirazajamali&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aqsaalirazajamali&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaalirazajamali&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaalirazajamali&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
 
 ---
 
