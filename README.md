@@ -54,18 +54,6 @@ I am a Computer Science student at Sukkur IBA University and an aspiring Softwar
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aqsaalirazajamali&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaalirazajamali&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
----
-
 ### 💡 Areas of Interest
 - Software Development
 - Machine Learning
