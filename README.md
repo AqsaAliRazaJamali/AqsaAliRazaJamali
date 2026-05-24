@@ -18,7 +18,7 @@ I am a Computer Science student at Sukkur IBA University and an aspiring Softwar
 | **Languages** | Python, Java, JavaScript (ES6+), HTML5/CSS3 |
 | **Frameworks & Libraries** | React, Redux Toolkit, Tailwind CSS |
 | **Data Science & ML** | Data Analysis, Feature Engineering, Machine Learning, Data Visualization |
-| **Databases** | MongoDB |
+| **Databases** | MongoDB, MySQL |
 | **Tools & Environments** | Git, GitHub, VS Code |
 
 ---
