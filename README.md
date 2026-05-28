@@ -28,6 +28,8 @@ I am a Computer Science student at Sukkur IBA University and an aspiring Softwar
 * 🚀 **AI Study Assistant – Multi-Model Learning Platform** *(Python, Streamlit, Gemini & Groq APIs)*
   Developed and deployed a cloud-based AI Study Assistant on Streamlit Cloud, featuring real-time selection between Gemini Pro and Groq inference engines, automated text extraction from PDF/Word files, and secure TOML secrets management.
 
+* ✉️ **Intelligent Email Studio** *(Python, Streamlit, Gemini 2.5 Flash, Groq APIs)* Developed and deployed an advanced, light-themed production communication workspace featuring multi-model load-balancing. The system automatically routes primary parsing requests through Gemini 2.5 Flash, with a resilient failover mechanism powered by Groq Llama 3.1. Features multi-tab orchestration for incoming email structural metadata analysis, customized raw intent draft composition, and contextual multi-turn smart thread replies using production secrets management. Live version: [Intelligent Email Studio](https://intelligent-email-studio.streamlit.app/)
+
 * 🤖 **CareerMint – AI-Powered Resume Builder** *(MERN Stack, Redux Toolkit, Tailwind CSS)*  
   Collaborated in a team to develop an AI-powered resume builder featuring AI-enhanced resume generation, PDF parsing, live preview functionality, JWT authentication, and MongoDB-based resume management.
 
