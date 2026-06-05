@@ -45,6 +45,12 @@ I'm a Computer Science student at Sukkur IBA University and an aspiring Software
   <img src="https://github-readme-stats.vercel.app/api?username=AqsaAliRazaJamali&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
+### 💻 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AqsaAliRazaJamali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 ---
  
 ### 💡 Areas of Interest
