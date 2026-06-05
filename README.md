@@ -40,7 +40,7 @@ I'm a Computer Science student at Sukkur IBA University and an aspiring Software
 ---
 
 ### 📊 GitHub Stats
-
+https://streak-stats.demolab.com?user=AqsaAliRazaJamali
 <img src="https://github-readme-stats.vercel.app/api?username=AqsaAliRazaJamali&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 
 ---
