@@ -38,11 +38,13 @@ I'm a Computer Science student at Sukkur IBA University and an aspiring Software
 * 🔐 **SecurePass Studio** *(React, Vite, Web Crypto API, Tailwind CSS)*
   Enterprise-grade password platform using the Web Crypto API for cryptographically secure generation, entropy analysis, leet-speak hardening, and session history — 100% client-side with zero data transmission. → [GitHub](https://github.com/aqsaalirazajamali/securepass-studio)
 ---
- 
-### 🔥 GitHub Streak Stats
- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aqsaalirazajamali&theme=tokyonight&hide_border=true&v=20260605)](https://git.io/streak-stats)
- 
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AqsaAliRazaJamali&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p> 
+
 ---
  
 ### 💡 Areas of Interest
