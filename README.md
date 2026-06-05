@@ -1,77 +1,61 @@
 ### Hi there, I'm Aqsa Jamali! 👋
-
-I am a Computer Science student at Sukkur IBA University and an aspiring Software Developer passionate about building interactive educational platforms, AI-powered applications, and data-driven solutions. I enjoy creating responsive web applications, algorithm visualizers, and machine learning projects that combine problem-solving with intuitive user experiences.
-
+ 
+I'm a Computer Science student at Sukkur IBA University and an aspiring Software Developer passionate about building AI-powered applications, privacy-first tools, and interactive educational platforms. I enjoy working across the full stack — from MERN applications to Python-based AI systems — with a focus on clean architecture and intuitive user experiences.
+ 
 ---
-
+ 
 ### 🚀 What I'm Up To
-- 🔭 **Currently working on:** Interactive algorithm visualizers, AI-powered web applications, and responsive frontend systems.
+- 🔭 **Currently working on:** Full-stack web apps, AI-powered tools, and interactive algorithm visualizers.
 - 🌱 **Currently learning:** MERN stack development, machine learning concepts, and advanced frontend architecture.
-- 💬 **Ask me about:** Java, Python, Web Development, algorithm visualizations, and interactive educational applications.
-
+- 💬 **Ask me about:** Python, JavaScript, React, LLM integration, algorithm visualizations, and client-side security.
 ---
-
+ 
 ### 🛠️ Technical Toolkit
-
+ 
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, Java, JavaScript (ES6+), HTML5/CSS3 |
-| **Frameworks & Libraries** | React, Redux Toolkit, Tailwind CSS |
-| **Data Science & ML** | Data Analysis, Feature Engineering, Machine Learning, Data Visualization |
-| **Databases** | MongoDB, MySQL |
-| **Tools & Environments** | Git, GitHub, VS Code |
-
+| **Frameworks & Libraries** | React, Redux Toolkit, Tailwind CSS, pdf-lib, Lucide React, Recharts, Vite |
+| **Backend & Database** | Node.js, Express.js, MongoDB, JWT |
+| **AI & LLM** | Google Gemini API, Groq API, Machine Learning, Data Analysis, Data Visualization |
+| **Tools & Deployment** | Git, GitHub, VS Code, Vercel, Streamlit Cloud |
+| **Concepts** | Web Crypto API, Client-Side Processing, OOP, Data Structures |
+ 
 ---
-
+ 
 ### 📈 Featured Projects
-
-* 🚀 **AI Study Assistant – Multi-Model Learning Platform** *(Python, Streamlit, Gemini & Groq APIs)*
-  Developed and deployed a cloud-based AI Study Assistant on Streamlit Cloud, featuring real-time selection between Gemini Pro and Groq inference engines, automated text extraction from PDF/Word files, and secure TOML secrets management.
-
-* ✉️ **Intelligent Email Studio** *(Python, Streamlit, Gemini 2.5 Flash, Groq APIs)* Developed and deployed an advanced, light-themed production communication workspace featuring multi-model load-balancing. The system automatically routes primary parsing requests through Gemini 2.5 Flash, with a resilient failover mechanism powered by Groq Llama 3.1. Features multi-tab orchestration for incoming email structural metadata analysis, customized raw intent draft composition, and contextual multi-turn smart thread replies using production secrets management. Live version: [Intelligent Email Studio](https://intelligent-email-studio.streamlit.app/)
-
-* 🤖 **CareerMint – AI-Powered Resume Builder** *(MERN Stack, Redux Toolkit, Tailwind CSS)*  
-  Collaborated in a team to develop an AI-powered resume builder featuring AI-enhanced resume generation, PDF parsing, live preview functionality, JWT authentication, and MongoDB-based resume management.
-
-* 📐 **Math Visualizer Website** *(HTML, CSS, JavaScript)*  
-  Developed an interactive mathematical visualization platform demonstrating 26 mathematical equations and concepts using dynamic animations and real-time graphical representations in vanilla JavaScript.
-
-* 🌐 **Regular Languages & Finite Automata Visualizer** *(HTML, Tailwind CSS, JavaScript)*  
-  Built an educational platform for visualizing DFA, NFA, Regular Expressions, and string validation through responsive and animated interfaces.
-
-* 🔍 **Interactive BFS Algorithm Visualizer** *(HTML, CSS, JavaScript)*  
-  Created an animated BFS traversal visualizer featuring real-time queue simulation, level-wise exploration, step-by-step execution, and auto-play learning modes.
-
-* 🧠 **Interactive Data Science Learning Platform** *(React, JavaScript, CSS)*  
-  Designed an interactive learning platform explaining AI and data science concepts through reusable React components and responsive educational interfaces.
-
-* 🚗 **Car Price Prediction Model** *(Python, Machine Learning)*  
-  Built a machine learning model for predicting vehicle prices using data preprocessing and feature engineering techniques.
-
-* 🛒 **Shopping & Management Systems** *(Java, OOP, Data Structures)*  
-  Created several desktop GUI applications, including a retail shopping cart system and a full CRUD-based Employee Management System focusing on clean Object-Oriented Design.
-  
+ 
+* 🤖 **CareerMint – AI-Powered Resume Builder** *(MERN Stack, Redux Toolkit, Tailwind CSS, JWT)*
+  Collaborated in a team to build a full-stack AI resume builder with content enhancement, PDF parsing, live preview, JWT authentication, and MongoDB-backed resume management. End-to-end MERN with Redux state management.
+* 🔒 **Privacy-First Local PDF Toolkit** *(React, Vite, pdf-lib, Tailwind CSS, Vercel)*
+  A browser-based PDF workspace where 100% of processing happens client-side — no file uploads, no server storage. Features smart PDF merging with drag-and-drop reordering, precision page splitting with custom range extraction, and text extraction. Live on Vercel. → [Live App](https://vercel.com/aqsa-jamali-s-projects/pdf-toolkit)
+* 📚 **AI Study Assistant – Multi-Model Learning Platform** *(Python, Streamlit, Gemini Pro, Groq)*
+  Cloud-deployed AI learning platform with real-time model switching between Gemini Pro and Groq. Supports PDF/Word document upload and features a 4-node workspace: AI Tutor, Notes Synthesizer, Assessment Engine, and Concept Explainer with 4 complexity depths. → [Live App](https://ai-study-assistant-aqsa.streamlit.app)
+* ✉️ **Intelligent Email Studio** *(Python, Streamlit, Gemini 2.5 Flash, Groq Llama 3.1)*
+  Production AI communication workspace with a resilient dual-model failover architecture (Gemini 2.5 Flash → Groq Llama 3.1). Parses raw emails into structured metadata, drafts professional replies across 5 tones, and handles smart thread replies. → [Live App](https://intelligent-email-studio.streamlit.app)
+* 📊 **ML Studio Visualizer** *(React, Vite, Recharts, Tailwind CSS)*
+  Interactive React app demonstrating core ML algorithms in real time — Live Linear Regression with Gradient Descent, real-time MSE tracking, and K-Means Clustering with adjustable K, learning rate, and epoch controls. → [GitHub](https://github.com/aqsaalirazajamali/ml-visualizer)
+* 🔐 **SecurePass Studio** *(React, Vite, Web Crypto API, Tailwind CSS)*
+  Enterprise-grade password platform using the Web Crypto API for cryptographically secure generation, entropy analysis, leet-speak hardening, and session history — 100% client-side with zero data transmission. → [GitHub](https://github.com/aqsaalirazajamali/securepass-studio)
 ---
-
+ 
 ### 🔥 GitHub Streak Stats
-
+ 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aqsaalirazajamali&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://git.io/streak-stats)
-
+ 
 ---
-
+ 
 ### 💡 Areas of Interest
-- Software Development
-- Machine Learning
-- Data Visualization
-- Educational Technology
-- Frontend Engineering
-- Algorithm Visualization
-
+- Full-Stack Web Development
+- AI & LLM Integration
+- Privacy-First Engineering
+- Machine Learning & Data Visualization
+- Frontend Architecture
+- Algorithm Visualization & EdTech
 ---
-
+ 
 ### 🤝 Connect with Me
-- 📧 **Email:** <aqsajamali72@gmail.com>
+- 📧 **Email:** aqsajamali72@gmail.com
 - 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/aqsa-ali-raza-4385a7351)
 - 🌐 **Portfolio:** [My Portfolio](https://aqsaalirazajamali.github.io/portfolio/)
-
-*“Building interactive solutions through code, creativity, and continuous learning.”*
+*"Building intelligent, privacy-respecting solutions through code, creativity, and continuous learning."*
