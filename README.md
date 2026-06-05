@@ -39,10 +39,11 @@ I'm a Computer Science student at Sukkur IBA University and an aspiring Software
   Enterprise-grade password platform using the Web Crypto API for cryptographically secure generation, entropy analysis, leet-speak hardening, and session history — 100% client-side with zero data transmission. → [GitHub](https://github.com/aqsaalirazajamali/securepass-studio)
 ---
 
-### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=AqsaAliRazaJamali&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AqsaAliRazaJamali&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AqsaAliRazaJamali&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AqsaAliRazaJamali&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
