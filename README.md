@@ -40,10 +40,10 @@ I'm a Computer Science student at Sukkur IBA University and an aspiring Software
 ---
 
 ### 🔥 GitHub Streak
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=AqsaAliRazaJamali&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AqsaAliRazaJamali&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=AqsaAliRazaJamali&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ---
  
