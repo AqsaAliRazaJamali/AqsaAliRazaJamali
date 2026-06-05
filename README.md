@@ -41,7 +41,7 @@ I'm a Computer Science student at Sukkur IBA University and an aspiring Software
 
 ### 📊 GitHub Stats
 
-![Aqsa's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AqsaAliRazaJamali&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AqsaAliRazaJamali&show_icons=true&theme=tokyonight" />
 
 ---
  
