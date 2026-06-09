@@ -41,6 +41,8 @@ I'm a Computer Science student at Sukkur IBA University and an aspiring Software
 
 ### 📊 GitHub Metrics
 
+![Aqsa's GitHub Stats](https://ghstats.dev/api/card?username=AqsaAliRazaJamali&theme=tokyonight)
+
 <!-- 1. Top Languages Card -->
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AqsaAliRazaJamali&layout=compact&theme=tokyonight&version=1" alt="Top Languages" />
 
