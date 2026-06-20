@@ -27,6 +27,8 @@ I'm a Computer Science student at Sukkur IBA University and an aspiring Software
  
 * 🤖 **CareerMint – AI-Powered Resume Builder** *(MERN Stack, Redux Toolkit, Tailwind CSS, JWT)*
   Collaborated in a team to build a full-stack AI resume builder with content enhancement, PDF parsing, live preview, JWT authentication, and MongoDB-backed resume management. End-to-end MERN with Redux state management.
+* ⚡ **VERTEX – Multi-Agent Developer Team Dashboard** *(FastAPI, React 19, TypeScript, JWT, Tailwind CSS)*
+  Enterprise-style full-stack control portal for orchestrating multi-agent developer workflows. Features an async FastAPI execution router for non-blocking concurrent task compilation, JWT-based authentication with hashed credential storage, a real-time client-side password complexity engine, and a live terminal-styled STDOUT monitor streaming backend status updates. → [GitHub](https://github.com/aqsaalirazajamali/multi-agent-dev-team)
 * 🔒 **Privacy-First Local PDF Toolkit** *(React, Vite, pdf-lib, Tailwind CSS, Vercel)*
   A browser-based PDF workspace where 100% of processing happens client-side — no file uploads, no server storage. Features smart PDF merging with drag-and-drop reordering, precision page splitting with custom range extraction, and text extraction. Live on Vercel. → [Live App](https://vercel.com/aqsa-jamali-s-projects/pdf-toolkit)
 * 📚 **AI Study Assistant – Multi-Model Learning Platform** *(Python, Streamlit, Gemini Pro, Groq)*
