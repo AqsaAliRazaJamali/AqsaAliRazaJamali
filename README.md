@@ -11,15 +11,15 @@ I'm a Computer Science student at Sukkur IBA University and an aspiring Software
 ---
  
 ### 🛠️ Technical Toolkit
- 
+
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, Java, JavaScript (ES6+), HTML5/CSS3 |
-| **Frameworks & Libraries** | React, Redux Toolkit, Tailwind CSS, pdf-lib, Lucide React, Recharts, Vite |
-| **Backend & Database** | Node.js, Express.js, MongoDB, JWT |
-| **AI & LLM** | Google Gemini API, Groq API, Machine Learning, Data Analysis, Data Visualization |
+| **Languages** | Python, Java, JavaScript (ES6+), TypeScript, HTML5/CSS3 |
+| **Frameworks & Libraries** | React 19, Redux Toolkit, Tailwind CSS, pdf-lib, Lucide React, Recharts, Vite |
+| **Backend & Database** | FastAPI (ASGI), Node.js, Express.js, MongoDB, JWT, PassLib (Bcrypt), Asyncio |
+| **AI & LLM** | Google Gemini API, Groq API, Multi-Agent Workflows, Machine Learning, Data Visualization |
 | **Tools & Deployment** | Git, GitHub, VS Code, Vercel, Streamlit Cloud |
-| **Concepts** | Web Crypto API, Client-Side Processing, OOP, Data Structures |
+| **Concepts** | Asynchronous Routing, Web Crypto API, Client-Side Processing, OOP, Data Structures |
  
 ---
  
