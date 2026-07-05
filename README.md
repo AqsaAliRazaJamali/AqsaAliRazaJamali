@@ -1,6 +1,6 @@
 ### Hi there, I'm Aqsa Jamali! 👋
  
-I'm a Computer Science student at Sukkur IBA University and an aspiring Software Developer passionate about building AI-powered applications, privacy-first tools, and interactive educational platforms. I enjoy working across the full stack — from MERN applications to Python-based AI systems — with a focus on clean architecture and intuitive user experiences.
+I'm a Computer Science student at Sukkur IBA University and an aspiring Software Developer passionate about building AI-powered applications, privacy-first tools, and interactive educational platforms. I enjoy working across the full stack, from MERN applications to Python-based AI systems — with a focus on clean architecture and intuitive user experiences.
  
 ---
  
