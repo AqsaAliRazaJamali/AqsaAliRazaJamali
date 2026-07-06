@@ -50,7 +50,7 @@ I'm a Computer Science student at Sukkur IBA University and an aspiring Software
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AqsaAliRazaJamali&layout=compact&theme=tokyonight&version=1" alt="Top Languages" />
 
 <!-- 3. Fixed GitHub Streak Card -->
-<img src="https://streak-stats.demolab.com/?user=AqsaAliRazaJamali&theme=tokyonight&v=1" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=AqsaAliRazaJamali&theme=tokyonight&cache=2026" alt="GitHub Streak" />
 
 ---
  
