@@ -49,8 +49,8 @@ I'm a Computer Science student at Sukkur IBA University and an aspiring Software
 <!-- 2. Top Languages Card -->
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AqsaAliRazaJamali&layout=compact&theme=tokyonight&version=1" alt="Top Languages" />
 
-<!-- 3. Fixed GitHub Streak Card -->
-<img src="https://streak-stats.demolab.com/?user=AqsaAliRazaJamali&theme=tokyonight&cache=2026" alt="GitHub Streak" />
+<!-- 3. Fixed GitHub Streak Card via Vercel Mirror -->
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=AqsaAliRazaJamali&theme=tokyonight" alt="GitHub Streak" />
 
 ---
  
